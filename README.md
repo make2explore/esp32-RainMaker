@@ -30,7 +30,7 @@ This tutorial is about ESP RainMaker Platform. We've discussed..
 
 📕 **YouTube Video Links**  
 
-▶️ [Device Overview] Reyax RYUW122 UWB Module - 🔗 https://youtu.be/AQDzyJrRA5M  
+▶️ [Tutorial] Getting Started With ESP RainMaker - 🔗 https://youtu.be/AQDzyJrRA5M  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
