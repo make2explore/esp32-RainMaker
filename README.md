@@ -22,7 +22,7 @@ For End Users
 This tutorial is about ESP RainMaker Platform. We've discussed..  
 - **What is ESP RainMaker ?** - Basic Introduction. 
 - **Features and Specifications** - Features, Specifications, Stack, SDK Et Cetra.  
-- **How to Get Started using ESP Launchapad** - .  
+- **How to Get Started using ESP Launchapad** - Demo
 - **Demo of ESP RainMaker - Applications** using ESP Launchpad
 
 
@@ -38,6 +38,7 @@ This tutorial is about ESP RainMaker Platform. We've discussed..
 🌐 ESP RainMaker - 🔗https://rainmaker.espressif.com/  
 📙 ESP RainMaker Docs 🔗 https://rainmaker.espressif.com/docs/intro/  
 📙 ESP RainMaker Docs 🔗 https://rainmaker.espressif.com/docs/get-started/  
+
 
 ------------------------------------------------------------------------------------------------------
 
