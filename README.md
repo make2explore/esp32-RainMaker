@@ -38,7 +38,7 @@ This tutorial is about ESP RainMaker Platform. We've discussed..
 🌐 ESP RainMaker - 🔗https://rainmaker.espressif.com/  
 📙 ESP RainMaker Docs 🔗 https://rainmaker.espressif.com/docs/intro/  
 📙 ESP RainMaker Docs 🔗 https://rainmaker.espressif.com/docs/get-started/  
-
+🛠 ESP Launchpad Tool for ESP Rainmaker 🔗 https://espressif.github.io/esp-launchpad/  
 
 ------------------------------------------------------------------------------------------------------
 
